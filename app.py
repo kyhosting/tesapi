@@ -51,10 +51,10 @@ def load_accounts():
     """
     # 4 akun default — selalu ada
     defaults = [
-        {"email": "ceptampan58@gmail.com",   "password": "Encep12345"},
+      #  {"email": "ceptampan58@gmail.com",   "password": "Encep12345"},
         {"email": "kicenofficial@gmail.com",  "password": "@Kiki2008"},
-        {"email": "kikiridwan1983@gmail.com", "password": "@Kiki2008"},
-        {"email": "xeviermassie83@gmail.com", "password": "@Kiki2008"},
+      #  {"email": "kikiridwan1983@gmail.com", "password": "@Kiki2008"},
+        {"email": "raca_dead@yahoo.com", "password": "raca9889"},
         {"email": "ingatmati158allah@gmail.com", "password": "Hpkenakreset1"},
     ]
 
